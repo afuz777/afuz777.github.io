@@ -1,7 +1,7 @@
-baseURL: https://afuz777.github.io
+baseURL: https://afuz777.github.io/blog
 
 languageCode: en-us
-title: "John's Blog"
+title: "Afu's Blog"
 theme: "toha"
 
 # Manage languages
@@ -44,7 +44,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo URL of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/afuz777/blog
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
